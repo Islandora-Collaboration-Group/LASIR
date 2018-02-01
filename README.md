@@ -8,10 +8,10 @@
 * If you have questions, please contact [David Keiser-Clark](dwk2@williams.edu)
 
 ## LASIR working group
-- Bryan Brown (Islandora IR Interest Group Convener; Florida State University)
+- Bryan Brown (Islandora IR interest group convener; Florida State University)
 - Mark Christel (Grinnell College)
-- Joanna DiPasquale (Vassar College) 
-- David Keiser-Clark (Williams College) 
-- Carolyn Moritz (Vassar College) 
-- Diego Pino (Islandora Foundation Release Manager)
+- Joanna DiPasquale (Vassar College)
+- David Keiser-Clark (Williams College)
+- Carolyn Moritz (Vassar College)
+- Diego Pino (Islandora Foundation release manager)
 - Noah Smith (Born-Digital)
