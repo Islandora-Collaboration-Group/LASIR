@@ -1,5 +1,8 @@
 # LASIR: Liberal Arts Sprint for Institutional Repository (IR) development
 
+## Goal
+* The LASIR group has a timeline and plan to design and develop a comprehensive set of IR features to improve the current Islandora 7x platform as an IR for liberal arts institutions.
+
 ## LASIR Documents
 * [Public LASIR Development](https://docs.google.com/document/d/1iRCOhiLRFoqEF3alOQiLEaK8-IGc1KArWLBMYv8xWEk/edit#heading=h.jkag9vqwplxh) (a concise overview in plain English)
 
