@@ -36,4 +36,3 @@
 - Vassar College
 - Wesleyan University
 - Williams College
-
