@@ -26,8 +26,8 @@
 - 10/2018 - [TBD] LASIR Phase II begins
 - 09/2019 - [TBD] LASIR Phase II completion 
 
-## Contributors welcome!
-* If you have questions, please contact [David Keiser-Clark](dwk2@williams.edu)
+## Contact Information
+* If you have questions or would like to join our discussions, please contact [Mark Christel](christelm@grinnell.edu) or [Joanna DiPasquale](jdipasquale@vassar.edu) or subscribe to the public [LASIR Updates google group](https://groups.google.com/forum/#!forum/lasir-updates).
 
 ## LASIR Steering Committee
 - Bryan Brown (Islandora IR IG Convener), Florida State University
