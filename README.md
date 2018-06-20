@@ -2,12 +2,12 @@
 
 ## What is LASIR?
 [LASIR](https://github.com/Islandora-Collaboration-Group/LASIR) is a collaborative project&mdash;initially created by the Islandora Collaboration Group (ICG) and funded by nine academic institutions and Born-Digital&mdash;that is developing a robust suite of Institutional Repository (IR) features within Islandora to enable the platform to be competitive with the top proprietary and open-source IRs currently available. An IR is a type of digital access and preservation system that focuses on institution-generated scholarly content. LASIR will build upon existing code to further develop these key IR features:
-- Search engine optimization (SEO) and Google Scholar integration
-- Usage stats/impact factor/assessment, including system-generated visualizations of usage/content
-- Enhanced author profiles for university and college faculty members
-- A generalized and simplified self-deposit workflow
-- Facilitate the ability to contribute to larger disciplinary networks
-- Complete documentation that is accessible and thorough
+1. Search engine optimization (SEO) and Google Scholar integration
+1. Usage stats/impact factor/assessment, including system-generated visualizations of usage/content
+1. Enhanced author profiles for university and college faculty members
+1. A generalized and simplified self-deposit workflow
+1. Facilitate the ability to contribute to larger disciplinary networks
+1. Complete documentation that is accessible and thorough
 
 ## LASIR Documents
 * [LASIR Executive Summary](https://docs.google.com/document/d/1iRCOhiLRFoqEF3alOQiLEaK8-IGc1KArWLBMYv8xWEk/edit#heading=h.jkag9vqwplxh) (a concise overview in plain English)
