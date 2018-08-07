@@ -1,7 +1,7 @@
 # LASIR: Liberal Arts Sprint for Institutional Repositories
 
 ## What is LASIR?
-[LASIR](https://github.com/Islandora-Collaboration-Group/LASIR) is a collaborative project&mdash;initially created by the Islandora Collaboration Group (ICG) and funded by nine academic institutions and Born-Digital&mdash;that is developing a robust suite of Institutional Repository (IR) features within Islandora to enable the platform to be competitive with the top proprietary and open-source IRs currently available. An IR is a type of digital access and preservation system that focuses on institution-generated scholarly content. LASIR will build upon existing code to further develop these key IR features:
+[LASIR](https://github.com/Islandora-Collaboration-Group/LASIR) is a collaborative project&mdash;created by the Islandora Collaboration Group (ICG) and funded by nine academic institutions and Born-Digital&mdash;that is working with the [Islandora IR Interest Group](https://github.com/islandora-interest-groups/Islandora-IR-Interest-Group) to develop a robust suite of Institutional Repository (IR) features within Islandora to enable the platform to be competitive with the top proprietary and open-source IRs currently available. An IR is a type of digital access and preservation system that focuses on institution-generated scholarly content. LASIR will build upon existing code to further develop these key IR features:
 1. Search engine optimization (SEO) and Google Scholar integration
 1. Usage stats/impact factor/assessment, including system-generated visualizations of usage/content
 1. Enhanced author profiles for university and college faculty members
@@ -26,7 +26,7 @@
 - 12/2017 - [Completed] ICG creates "Liberal Arts Sprint: IR Features Roadmap" working group
 - 05/2018 - [Completed] ICG creates LASIR Steering Committee
 - 05/2018 - [Completed] $35,000 contributed from nine academic institutions to fund LASIR Phase I
-- 07/2018 - [Pending] LASIR Phase I begins
+- 07/2018 - [Completed] LASIR Phase I begins
 - 11/2018 - [Pending] LASIR Phase I completion (full wireframes for new functionality; atomic visual designs of new functional components)
 - 12/2018 - [TBD] LASIR Phase II begins
 - 09/2019 - [TBD] LASIR Phase II completion
