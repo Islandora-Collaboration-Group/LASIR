@@ -21,9 +21,9 @@
 - 12/2017 - [Completed] ICG creates "Liberal Arts Sprint: IR Features Roadmap" working group
 - 05/2018 - [Completed] ICG creates LASIR Steering Committee
 - 05/2018 - [Completed] $35,000 contributed from nine academic institutions to fund LASIR Phase I
-- 06/2018 - [Pending] LASIR Phase I begins
-- 09/2018 - [TBD] LASIR Phase I completion (full wireframes for new functionality; atomic visual designs of new functional components)
-- 10/2018 - [TBD] LASIR Phase II begins
+- 07/2018 - [Pending] LASIR Phase I begins
+- 11/2018 - [Pending] LASIR Phase I completion (full wireframes for new functionality; atomic visual designs of new functional components)
+- 12/2018 - [TBD] LASIR Phase II begins
 - 09/2019 - [TBD] LASIR Phase II completion
 
 ## Contact Information
