@@ -12,6 +12,11 @@
 ## LASIR Documents
 * [LASIR Executive Summary](https://docs.google.com/document/d/1iRCOhiLRFoqEF3alOQiLEaK8-IGc1KArWLBMYv8xWEk/edit#heading=h.jkag9vqwplxh) (a concise overview in plain English)
 
+## How to Join
+* LASIR meetings are open to everybody! They occur within the public [IR Interest Group](https://github.com/islandora-interest-groups/Islandora-IR-Interest-Group) meetings. [Schedule](https://github.com/islandora-interest-groups/Islandora-IR-Interest-Group#how-to-join) is the fourth Thursday of each month at 3PM EST.
+* Subscribe to our [LASIR Google group](https://groups.google.com/forum/#!forum/lasir-updates) for updates, meeting announcements, and collaboration
+* Contact [Mark Christel](christelm@grinnell.edu) or [Joanna DiPasquale](jdipasquale@vassar.edu), LASIR Steering Committee, Co-Chairs
+
 ## Funding
 - LASIR Phase I: $41,000 contributed to fund Phase I ($35,000 from nine academic institutions: Hamilton College, Hampshire College, Grinnell College, Middlebury College, Mount Holyoke College, Smith College, Vassar College, Wesleyan University, Williams College; $6,000 in-kind labor from Born-Digital)
 - LASIR Phase II: TBD
@@ -25,9 +30,6 @@
 - 11/2018 - [Pending] LASIR Phase I completion (full wireframes for new functionality; atomic visual designs of new functional components)
 - 12/2018 - [TBD] LASIR Phase II begins
 - 09/2019 - [TBD] LASIR Phase II completion
-
-## Contact Information
-* If you have questions or would like to join our discussions, please contact [Mark Christel](christelm@grinnell.edu) or [Joanna DiPasquale](jdipasquale@vassar.edu) or subscribe to the public [LASIR Updates google group](https://groups.google.com/forum/#!forum/lasir-updates).
 
 ## LASIR Steering Committee
 - Bryan Brown (Islandora IR IG Convener), Florida State University
