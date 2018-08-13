@@ -37,6 +37,7 @@
 - Joanna DiPasquale (Co-Chair), Vassar College
 - David Keiser-Clark, Williams College
 - Diego Pino, METRO
+- Wendy Shook, Middlebury College
 
 ## LASIR Technical Leads
 - Bryan Brown, Florida State University
