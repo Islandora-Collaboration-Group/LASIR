@@ -33,6 +33,7 @@ The LASIR Steering Committee will submit the resultant development via Islandora
 - Mark Christel (Co-Chair), Grinnell College
 - Joanna DiPasquale (Co-Chair), Vassar College
 - David Keiser-Clark, Williams College
+- Donald Moses, University of Prince Edward Island (UPEI)
 - Diego Pino, METRO
 - Wendy Shook, Middlebury College
 
