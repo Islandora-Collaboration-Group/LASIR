@@ -41,6 +41,8 @@ The LASIR Steering Committee will submit the resultant development via Islandora
 - Bryan Brown, Florida State University
 - Joanna DiPasquale, Vassar College
 
+## Former Contributors
+
 ## Funding Institutions: LASIR Phase I
 - Hamilton College
 - Hampshire College
