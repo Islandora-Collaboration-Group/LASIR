@@ -22,7 +22,7 @@ LASIR will advance Islandora’s position as a versatile, highly attractive, and
 
 ## Funding
 - **LASIR Phase I:** $41,000 crowdfunded ($35,000 from nine academic institutions: Hamilton College, Hampshire College, Grinnell College, Middlebury College, Mount Holyoke College, Smith College, Vassar College, Wesleyan University, Williams College; $6,000 in-kind labor from Born-Digital); met original goal of $41,000.
-- **LASIR Phase II:** Planning funding
+- **LASIR Phase II:** The Andrew W. Mellon Foundation has awarded a [$153,000 grant](https://communications.williams.edu/news-releases/10_30_2018_islandora/) to the Islandora Collaboration Group (ICG) to create “_Islandora for All:_ Extending the Open-Source Platform to Include Broad Scale Institutional Repository Appeal and High-Performance Scalability”
 - **LASIR Phase III:** TBD
 
 ## Project Sustainability
