@@ -3,7 +3,7 @@
 ## LASIR Documents
 * [LASIR Executive Summary](https://docs.google.com/document/d/1iRCOhiLRFoqEF3alOQiLEaK8-IGc1KArWLBMYv8xWEk/edit#heading=h.jkag9vqwplxh) (project overview)
 
-## How to Join
+## Contributing to LASIR
 * LASIR meetings are open to everybody! They occur within the public [IR Interest Group](https://github.com/islandora-interest-groups/Islandora-IR-Interest-Group) meetings. [Schedule](https://github.com/islandora-interest-groups/Islandora-IR-Interest-Group#how-to-join)  is fourth Thursday of each month at 3PM EDT
 * [LASIR Google group](https://groups.google.com/forum/#!forum/lasir-updates) - Post your questions here and subscribe for updates, meeting announcements, and discussions
 * Contact [Mark Christel](christelm@grinnell.edu) or [Joanna DiPasquale](jdipasquale@vassar.edu), LASIR Steering Committee, Co-Chairs
