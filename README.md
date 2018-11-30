@@ -22,13 +22,14 @@ LASIR will advance Islandora’s position as a versatile, highly attractive, and
 
 ## Funding
 - **LASIR Phase I:** $41,000 crowdfunded ($35,000 from nine academic institutions: Hamilton College, Hampshire College, Grinnell College, Middlebury College, Mount Holyoke College, Smith College, Vassar College, Wesleyan University, Williams College; $6,000 in-kind labor from Born-Digital); met original goal of $41,000.
-- **LASIR Phase II:** The Andrew W. Mellon Foundation has awarded a [$153,000 grant](https://communications.williams.edu/news-releases/10_30_2018_islandora/) to the Islandora Collaboration Group (ICG) to create “_Islandora for All:_ Extending the Open-Source Platform to Include Broad Scale Institutional Repository Appeal and High-Performance Scalability”
+- **LASIR Phase II:** Williams College, in partnership with the Islandora Collaboration Group (ICG) and in consultation with the Islandora Foundation, has received a [$153,000 grant from The Andrew W. Mellon Foundation](https://docs.google.com/document/d/1iN6-EH3PyhjFUms3SgNxRRXwbaK_780G9_O1rHAcaV4/view) to support the *Islandora for All* project: “Islandora for All: Extending the Open-Source Platform to Include Broad Scale Institutional Repository Appeal and High-Performance Scalability”
 - **LASIR Phase III:** TBD
 
 ## Project Sustainability
 The LASIR Steering Committee will submit the resultant development via Islandora’s Licensed Software Acceptance Procedure ([LSAP](https://islandora.ca/developers/lsap)). The development will then become a core part of the Islandora 7x Release (Fall 2019) and will be supported and maintained by the Islandora community as part of the free and publicly shared open-source platform. Through this LSAP method, Islandora has already adopted a large number of externally contributed modules that are sustainably maintained by community members.
 
 ## LASIR Steering Committee
+- Andrew Ashton, Vassar College
 - Bryan Brown (Islandora IR IG Convener), Florida State University
 - Mark Christel (Co-Chair), Grinnell College
 - Joanna DiPasquale (Co-Chair), Vassar College
