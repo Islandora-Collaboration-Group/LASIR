@@ -32,17 +32,13 @@ The LASIR Steering Committee will submit the resultant development via Islandora
 - Andrew Ashton, Vassar College
 - Bryan Brown (Islandora IR IG Convener), Florida State University
 - Mark Christel (Co-Chair), Grinnell College
-- Joanna DiPasquale (Co-Chair), Vassar College
 - David Keiser-Clark, Williams College
 - Donald Moses, University of Prince Edward Island (UPEI)
 - Diego Pino, METRO
 - Wendy Shook, Middlebury College
 
-## LASIR Technical Leads
-- Bryan Brown, Florida State University
-- Joanna DiPasquale, Vassar College
-
 ## Former Contributors
+- Joanna DiPasquale, Vassar College
 
 ## Funding Institutions: LASIR Phase I
 - Hamilton College
@@ -60,6 +56,7 @@ The LASIR Steering Committee will submit the resultant development via Islandora
 - 05/2018 - [Completed] ICG creates LASIR Steering Committee
 - 05/2018 - [Completed] $35,000 crowdfunded from nine academic institutions to fund LASIR Phase I
 - 07/2018 - [Completed] LASIR Phase I begins
-- 11/2018 - [Pending] LASIR Phase I completion (full wireframes for new functionality; atomic visual designs of new functional components)
-- 12/2018 - [TBD] LASIR Phase II begins
+- 10/2018 - [Completed] The Andrew W. Mellon Foundation awarded a $153,000 grant to fund LASIR Phase II
+- 12/2018 - [Pending] LASIR Phase I completion (full wireframes for new functionality; atomic visual designs of new functional components)
+- 01/2019 - [TBD] LASIR Phase II begins
 - 09/2019 - [TBD] LASIR Phase II completion
